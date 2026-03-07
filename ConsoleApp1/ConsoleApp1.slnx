@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
+  <Project Path="task2/task2.csproj" Id="a00d21fb-b74e-4792-8fd6-5c1bc4149693" />
+  <Project Path="task3/task3.csproj" Id="8d9db106-b159-428e-8383-ff4dd2ea002d" />
+  <Project Path="task4/task4.csproj" Id="9bd75ef4-55e8-455f-b844-b3fdf98f78db" />
+</Solution>
